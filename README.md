@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @snaffisah
 - 🌱 I’m currently learning to be Data Scientist
-- 💞️ Let me know if u know any vacancies =)
+- 💞️ Let me know if u know any vacancy =)
 - 📫 Email: snaffisah@gmail.com
 
 <!---
